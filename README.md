@@ -1,1 +1,0 @@
-# imo_first_test_project
