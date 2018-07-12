@@ -3,14 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7951f0a3-53f7-46a9-ba3f-40f58f889fb2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-eureka/src/main/java/com/tingyun/cloud/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-eureka/src/main/java/com/tingyun/start/EurekaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-eureka/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-eureka/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-eureka/target/classes/com/tingyun/cloud/EurekaApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-portal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-portal/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-portal/src/main/java/com/tingyun/cloud/PortalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-portal/src/main/java/com/tingyun/PortalApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-portal/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-portal/src/main/resources/config/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-portal/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-portal/target/classes/com/tingyun/cloud/PortalApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-colorpicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-colorpicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-editable.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-editable.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/jquery.gritter.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/jquery.gritter.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/font-awesome/4.5.0/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/font-awesome/4.5.0/css/font-awesome.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,17 +22,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/java/com/tingyun/controller/LoginController.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/font-awesome/4.5.0/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="147">
+              <caret line="3" column="488" lean-forward="true" selection-start-line="3" selection-start-column="488" selection-end-line="3" selection-end-column="488" />
             </state>
           </provider>
         </entry>
@@ -52,6 +45,9 @@
     <findStrings>
       <find>../</find>
     </findStrings>
+    <replaceStrings>
+      <replace>/assets/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +66,12 @@
         <option value="$PROJECT_DIR$/springcloud-portal/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-portal/src/main/java/com/tingyun/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/springcloud-portal/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-colorpicker.min.css" />
+        <option value="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-editable.min.css" />
+        <option value="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/jquery.gritter.min.css" />
+        <option value="$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/font-awesome/4.5.0/css/font-awesome.min.css" />
       </list>
     </option>
   </component>
@@ -96,12 +98,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
@@ -156,13 +164,97 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="4.5.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="4.5.0" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="4.5.0" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="swf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imo_first_test_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imo_first_test_project" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,14 +411,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17629000" />
+    <option name="totallyTimeSpent" value="18087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.26041666" side_tool="true" visible="true" weight="0.28230184" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.26145834" side_tool="true" visible="true" weight="0.51140064" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -342,21 +434,47 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73854166" visible="true" weight="0.51140064" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7395833" weight="0.28230184" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947917" weight="0.32899022" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7395833" weight="0.28230184" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.26041666" side_tool="true" visible="true" weight="0.28230184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Designer" order="2" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,6 +484,95 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/buttons.print.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/chosen.jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/dataTables.select.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/fullcalendar.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/jquery-ui.custom.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/jquery-ui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/tree.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/wizard.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/spinbox.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/prettify.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="4" column="3178" selection-start-line="4" selection-start-column="3178" selection-end-line="4" selection-end-column="3178" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -389,29 +596,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/css/bootstrap.min.css" />
     <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/css/animate.css" />
-    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-datepicker3.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/ace.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/ace-ie.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/ace-part2.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="4" column="3295" selection-start-line="4" selection-start-column="3292" selection-end-line="4" selection-end-column="3295" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/原始portal页面模板存根文件夹/ace-master/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -437,10 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -467,6 +647,146 @@
             <element signature="e#245#246#0" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/ace.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret column="2252" selection-start-column="2252" selection-end-column="2252" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/ace-ie.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/ace-part2.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/ace-rtl.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/ace-skins.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="4" column="4156" lean-forward="true" selection-start-line="4" selection-start-column="4156" selection-end-line="4" selection-end-column="4156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-colorpicker.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="3152" selection-start-line="8" selection-start-column="3152" selection-end-line="8" selection-end-column="3152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-datepicker3.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-datetimepicker.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-duallistbox.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-editable.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="3" column="1491" selection-start-line="3" selection-start-column="1491" selection-end-line="3" selection-end-column="1491" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-multiselect.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/bootstrap-timepicker.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/chosen.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/colorbox.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/daterangepicker.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/dropzone.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="3" column="414" selection-start-line="3" selection-start-column="414" selection-end-line="3" selection-end-column="414" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/fonts.googleapis.com.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/fullcalendar.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/jquery.gritter.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1541" selection-start-column="1541" selection-end-column="1541" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/jquery-ui.custom.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/jquery-ui.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/prettify.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/select2.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/css/ui.jqgrid.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/js/ace.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-portal/src/main/resources/static/assets/font-awesome/4.5.0/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="3" column="488" lean-forward="true" selection-start-line="3" selection-start-column="488" selection-end-line="3" selection-end-column="488" />
         </state>
       </provider>
     </entry>
