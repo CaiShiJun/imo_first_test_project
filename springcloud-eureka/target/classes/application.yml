@@ -6,7 +6,7 @@ security:
     password: password123
 spring:
   application:
-    name: eureka-ha
+    name: EUREKA-HA
 ---
 server:
   port: 8761
