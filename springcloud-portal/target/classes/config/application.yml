@@ -1,0 +1,73 @@
+spring:
+  application:
+    name: springcloud-portal
+---
+server:
+  port: 8764
+spring:
+  profiles: portal1
+eureka:
+  client:
+    healthcheck:
+      enabled: true
+    serviceUrl:
+      defaultZone: http://user:password123@localhost:8761/eureka
+---
+server:
+  port: 8765
+spring:
+  profiles: portal2
+eureka:
+  client:
+    healthcheck:
+      enabled: true
+    serviceUrl:
+      defaultZone: http://user:password123@localhost:8762/eureka
+---
+server:
+  port: 8766
+spring:
+  profiles: portal3
+eureka:
+  client:
+    healthcheck:
+      enabled: true
+    serviceUrl:
+      defaultZone: http://user:password123@localhost:8763/eureka
+
+#####################################################   Freemarker Start
+  freemarker:
+      allow-request-override: false
+      cache: true
+      charset: UTF-8
+      check-template-location: true
+      content-type: text/html
+      expose-request-attributes: false
+      expose-session-attributes: false
+      expose-spring-macro-helpers: false
+      suffix: .ftl
+
+#spring.freemarker.prefix=
+#spring.freemarker.request-context-attribute=
+#spring.freemarker.settings.*=
+#spring.freemarker.template-loader-path=classpath:/templates/#comma-separatedlist
+#spring.freemarker.view-names= #whitelistofviewnamesthatcanberesolved
+
+#####################################################   Freemarker End
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
