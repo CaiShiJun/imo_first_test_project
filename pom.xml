@@ -11,6 +11,7 @@
         <module>springcloud-eureka</module>
         <module>springcloud-portal</module>
         <module>springcloud-personnel</module>
+        <module>springcloud-common</module>
     </modules>
     <packaging>pom</packaging>
 
